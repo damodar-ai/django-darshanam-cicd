@@ -1,0 +1,13 @@
+django_google_fonts: Either STATIC_URL or GOOGLE_FONTS_URL must be set.
+django_google_fonts: Either STATIC_URL or GOOGLE_FONTS_URL must be set.
+Watching for file changes with StatReloader
+[25/Dec/2023 18:25:32] "GET /admin/ HTTP/1.1" 200 5539
+[25/Dec/2023 18:25:36] "GET / HTTP/1.1" 200 639
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 25, 2023 - 18:25:23
+Django version 5.0, using settings 'videoconferencing.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
